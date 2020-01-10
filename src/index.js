@@ -1,3 +1,3 @@
-import { line } from './draw'
+import { drawLine } from './draw'
 
 import './styles/style.css'
