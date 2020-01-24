@@ -26,6 +26,7 @@ body {
     width: 350px;
 	height: 350px;
 	border: 2px dashed #fdd835;
+	border-radius: 6px;
 }
 
 .text {
